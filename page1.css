@@ -1,0 +1,249 @@
+
+.Hachalo{
+    color: blue;
+    float: left;
+    left: 100px;
+    position: absolute;
+}
+
+.Hachalo2{
+    color: red;
+    float: left;
+    left: 145px;
+    position: absolute;
+}
+
+.kab{
+    border: 1px solid #ffffff; 
+    padding: 10px; 
+    display: inline-block;
+    background-color: #afdffb;
+    border-radius: 10px;
+    position: absolute;
+    right: 70px;
+    top: 25px;
+    text-decoration: none;
+    color: rgb(0, 69, 244);
+}
+
+.card{
+    width: 200px;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+}
+.zkx{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    display: inline-block;
+    border: 1px solid rgb(93, 119, 238); 
+    padding: 10px; 
+    background-color: rgb(93, 119, 238);
+    border-radius: 5px;
+    top: 150px;
+    left: 330px;
+    width: 170px;
+}
+
+.scool{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    display: inline-block;
+    border: 1px solid rgb(93, 119, 238); 
+    padding: 10px; 
+    background-color: rgb(93, 119, 238);
+    border-radius: 5px;
+    top: 150px;
+    left: 535px;
+    width: 170px;
+}
+
+.svo{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    display: inline-block;
+    border: 1px solid rgb(93, 119, 238); 
+    padding: 10px; 
+    background-color: rgb(93, 119, 238);
+    border-radius: 5px;
+    top: 150px;
+    left: 740px;
+    width: 170px;
+}
+
+.shkeper{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    display: inline-block;
+    border: 1px solid rgb(93, 119, 238); 
+    padding: 10px; 
+    background-color: rgb(93, 119, 238);
+    border-radius: 5px;
+    top: 150px;
+    left: 945px;
+    width: 170px;
+}
+
+.vid{
+    background-color: rgb(211, 19, 19);
+}
+
+.poisk{
+    top: 220px;
+    left: 350px;
+    position: absolute;
+}
+
+.button1{
+    border: 1px solid rgb(0, 69, 244); 
+    padding: 10px; 
+    display: inline-block;
+    background-color: rgb(0, 69, 244);
+    border-radius: 5px;
+    position: absolute;
+    top: 255px;
+    left: 330px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.button2{
+    border: 1px solid rgb(0, 69, 244); 
+    padding: 10px; 
+    display: inline-block;
+    background-color: rgb(0, 69, 244);
+    border-radius: 5px;
+    position: absolute;
+    top: 255px;
+    left: 490px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.button3{
+    border: 1px solid rgb(0, 69, 244); 
+    padding: 10px; 
+    display: inline-block;
+    background-color: rgb(0, 69, 244);
+    border-radius: 5px;
+    position: absolute;
+    top: 255px;
+    left: 602px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.button4{
+    border: 1px solid rgb(0, 69, 244); 
+    padding: 10px; 
+    display: inline-block;
+    background-color: rgb(0, 69, 244);
+    border-radius: 5px;
+    position: absolute;
+    top: 255px;
+    left: 790px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.button5{
+    border: 1px solid rgb(0, 69, 244); 
+    padding: 10px; 
+    display: inline-block;
+    background-color: rgb(0, 69, 244);
+    border-radius: 5px;
+    position: absolute;
+    top: 255px;
+    left: 1035px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.button6{
+    padding: 10px; 
+    display: inline-block;
+    border-radius: 5px;
+    position: absolute;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    top: 500px;
+    left: 100px;
+    background-color: rgb(27, 99, 255);
+}
+
+.txt1{
+    position: absolute;
+    top: 420px;
+    left: 90px;
+}
+
+.nov{
+    position: absolute;
+    top: 410px;
+    left: 90px;
+}
+
+ul{
+    width: 400px;
+    height: 600px;
+    overflow: scroll;
+    margin: auto;
+    padding: 10px;
+    list-style: none;
+    border: 4px solid 54, 199, 170;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    overflow-y: scroll;
+    scrollbar-width: 2px;
+    overflow-x: hidden;
+    border: 4px;
+    border-color: rgb(27, 99, 255);
+}
+
+.letter {
+    font-size: 32px;
+    background-color: #14c9bd;
+    border-radius: 10px;
+    padding: 8px 12px;
+    position: sticky;
+    top: 8px;
+}
+
+.user{
+    display: flex;
+    align-items: center;
+    padding: 4px 8px;
+}
+
+.user img{
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+footer{
+    text-align: center;
+}
+
+main{
+    display: flex;
+    position: absolute;
+    top: 125px;
+    right: 300px;
+}
+
+.rab{
+    display: flex;
+    position: absolute;
+    top: 85px;
+    right: 450px;
+    border-radius: 5px;
+    background-color: #14c9bd;
+}
